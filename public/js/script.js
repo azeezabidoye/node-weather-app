@@ -1,6 +1,3 @@
-console.log('Client side javascript')
-
-
 const weatherForm = document.querySelector('form');
 const searchLocation = document.querySelector('input');
 const locationDisplay = document.querySelector('.location')
